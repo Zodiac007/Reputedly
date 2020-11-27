@@ -16,3 +16,7 @@
 // For Run the application
 1. need to install npm (node modules)
 2. then using command "npm run dev".
+
+
+// Video Demonstration
+1. In video_demostration folder a video of working application is placed as well as a image of the user data which we collected via authentication is placed.
