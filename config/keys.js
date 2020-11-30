@@ -4,8 +4,8 @@ const FACEBOOK = {
 }
 
 const TWITTER = {
-    clientID: "S2vxdPdRuBdQQyf1muqdFScaD",
-    clientSecret: "34pguhV0lxPNUlI3W0NAgecda6Ye3fNRnz7fqfkbTfR3AEo8Ar"
+    clientID: "UG0kTBkdpkildHqZDAtkLeqUv",
+    clientSecret: "OSHIB8Lt7UyPGasGQWpP65VBcciQydRrjEKdvbokFccIBrd0FL"
 }
 
 const INSTAGRAM = {
@@ -18,11 +18,21 @@ const GITHUB = {
     clientSecret: "932e80dbd7163be699aa458db930ad12f97fa927"
 }
 
+const LINKEDIN = {
+    clientID: "78yvglq97aw6x7",
+    clientSecret: "jsk3OCvrcVaxWQqG"
+}
 
+const REDDIT = {
+    clientID: "vAYwuXmiOKDOvg",
+    clientSecret: "UnY0INFcch-4Z5BSuXfsIyUrHg06wQ"
+}
 
 module.exports = {
     FACEBOOK,
     TWITTER,
     INSTAGRAM,
-    GITHUB
+    GITHUB,
+    LINKEDIN,
+    REDDIT
 }
